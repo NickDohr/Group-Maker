@@ -18,6 +18,8 @@ public class GroupMaker {
 				String line = myFile.nextLine();
 				studentL.add(line);
 			}
+		//gneed to commit
+		
 		
 	}
 
